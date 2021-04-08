@@ -3,11 +3,7 @@
 
 
 import parselmouth
-import matplotlib.pyplot as plt
 import numpy as np
-import seaborn as sns
-from mpl_interactions import heatmap_slicer
-import matplotlib as mpl
 import streamlit as st 
 import pandas as pd
 
