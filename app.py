@@ -9,7 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 st.markdown('# How Analysis Parameters Affect Pitch Measures in Praat')
-
+st.markdown('# ')
 # Load sound into Praat
 sound = parselmouth.Sound("03-01-01-01-01-01-01.wav")
 
